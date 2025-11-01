@@ -1,0 +1,3 @@
+Anand | 22 | Male | Mumbai
+Bihu | 17 | Female | Pune
+Kiran | 25 | Male | Delhi
